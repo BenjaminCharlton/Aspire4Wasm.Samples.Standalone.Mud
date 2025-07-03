@@ -1,6 +1,7 @@
 # Aspire4Wasm.Samples.Standalone
 
 Demonstrates how Aspire4Wasm makes .NET Aspire work with stand-alone Blazor WebAssembly apps.
+If you're more interested in hosted Blazor WebAssembly apps, there's a sample for that at: https://github.com/BenjaminCharlton/Aspire4Wasm.Samples.Hosted
 
 ## Learn more about Aspire4Wasm
 
