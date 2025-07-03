@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Aspire4Wasm.WebApi" Version="6.0.1" />
+		<PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.6" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Aspire4Wasm.Samples.Standalone.HttpContracts\Aspire4Wasm.Samples.Standalone.HttpContracts.csproj" />
+		<ProjectReference Include="..\Aspire4Wasm.Samples.Standalone.ServiceDefaults\Aspire4Wasm.Samples.Standalone.ServiceDefaults.csproj" />
+	</ItemGroup>
+
+</Project>

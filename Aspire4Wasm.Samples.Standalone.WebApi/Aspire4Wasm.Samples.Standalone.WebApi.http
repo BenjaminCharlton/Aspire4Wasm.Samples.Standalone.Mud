@@ -1,0 +1,6 @@
+@Aspire4Wasm.Samples.Standalone.WebApi_HostAddress = http://localhost:5087
+
+GET {{Aspire4Wasm.Samples.Standalone.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
