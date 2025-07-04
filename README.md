@@ -1,7 +1,8 @@
-# Aspire4Wasm.Samples.Standalone
+# Aspire4Wasm.Samples.Standalone.Mud
 
-Demonstrates how Aspire4Wasm makes .NET Aspire work with stand-alone Blazor WebAssembly apps.
+Demonstrates how Aspire4Wasm makes .NET Aspire work with stand-alone Blazor WebAssembly apps with a MudBlazor UI.
 If you're more interested in hosted Blazor WebAssembly apps, there's a sample for that at: https://github.com/BenjaminCharlton/Aspire4Wasm.Samples.Hosted
+If you like this but want the regular Bootstrap UI, there's a sample at: https://github.com/BenjaminCharlton/Aspire4Wasm.Samples.Standalone
 
 ## Learn more about Aspire4Wasm
 
