@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire4Wasm.Samples.Standalone.AppHost", "Aspire4Wasm.Samples.Standalone.AppHost\Aspire4Wasm.Samples.Standalone.AppHost.csproj", "{DB2DC177-6FBE-4BC2-AC05-635A72FAC8EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire4Wasm.Samples.Standalone.Mud.AppHost", "Aspire4Wasm.Samples.Standalone.Mud.AppHost\Aspire4Wasm.Samples.Standalone.Mud.AppHost.csproj", "{DB2DC177-6FBE-4BC2-AC05-635A72FAC8EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire4Wasm.Samples.Standalone.ServiceDefaults", "Aspire4Wasm.Samples.Standalone.ServiceDefaults\Aspire4Wasm.Samples.Standalone.ServiceDefaults.csproj", "{913DF895-6A6B-CFBA-35BC-F906BAA06E5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire4Wasm.Samples.Standalone.Mud.ServiceDefaults", "Aspire4Wasm.Samples.Standalone.Mud.ServiceDefaults\Aspire4Wasm.Samples.Standalone.Mud.ServiceDefaults.csproj", "{913DF895-6A6B-CFBA-35BC-F906BAA06E5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire4Wasm.Samples.Standalone.WebApi", "Aspire4Wasm.Samples.Standalone.WebApi\Aspire4Wasm.Samples.Standalone.WebApi.csproj", "{741A68BA-81CA-DEAF-871F-00E4B3835890}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire4Wasm.Samples.Standalone.Mud.WebApi", "Aspire4Wasm.Samples.Standalone.Mud.WebApi\Aspire4Wasm.Samples.Standalone.Mud.WebApi.csproj", "{741A68BA-81CA-DEAF-871F-00E4B3835890}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire4Wasm.Samples.Standalone.HttpContracts", "Aspire4Wasm.Samples.Standalone.HttpContracts\Aspire4Wasm.Samples.Standalone.HttpContracts.csproj", "{8E33AB82-5E8A-425F-63FA-4ED10B9EF438}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire4Wasm.Samples.Standalone.Mud.HttpContracts", "Aspire4Wasm.Samples.Standalone.Mud.HttpContracts\Aspire4Wasm.Samples.Standalone.Mud.HttpContracts.csproj", "{8E33AB82-5E8A-425F-63FA-4ED10B9EF438}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire4Wasm.Samples.Standalone.Client", "Aspire4Wasm.Samples.Standalone.Client\Aspire4Wasm.Samples.Standalone.Client.csproj", "{29877EED-C2DC-A171-6FFC-D6A62D5848F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire4Wasm.Samples.Standalone.Mud.Client", "Aspire4Wasm.Samples.Standalone.Mud.Client\Aspire4Wasm.Samples.Standalone.Mud.Client.csproj", "{29877EED-C2DC-A171-6FFC-D6A62D5848F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

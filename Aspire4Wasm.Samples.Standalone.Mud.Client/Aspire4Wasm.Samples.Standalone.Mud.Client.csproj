@@ -7,13 +7,14 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Aspire4Wasm.WebAssembly" Version="6.0.0" />
+		<PackageReference Include="Aspire4Wasm.WebAssembly" Version="6.0.1" />
 		<PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="9.0.6" />
 		<PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="9.0.6" PrivateAssets="all" />
+		<PackageReference Include="MudBlazor" Version="8.9.0" />
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\Aspire4Wasm.Samples.Standalone.HttpContracts\Aspire4Wasm.Samples.Standalone.HttpContracts.csproj" />
+		<ProjectReference Include="..\Aspire4Wasm.Samples.Standalone.Mud.HttpContracts\Aspire4Wasm.Samples.Standalone.Mud.HttpContracts.csproj" />
 	</ItemGroup>
 
 </Project>

@@ -1,4 +1,4 @@
-using Aspire4Wasm.Samples.Standalone.HttpContracts;
+using Aspire4Wasm.Samples.Standalone.Mud.HttpContracts;
 
 var builder = WebApplication.CreateBuilder(args);
 

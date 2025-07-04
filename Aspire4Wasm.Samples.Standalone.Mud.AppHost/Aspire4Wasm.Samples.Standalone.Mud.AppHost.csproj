@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Aspire4Wasm.Samples.Standalone.Client\Aspire4Wasm.Samples.Standalone.Client.csproj" />
-    <ProjectReference Include="..\Aspire4Wasm.Samples.Standalone.WebApi\Aspire4Wasm.Samples.Standalone.WebApi.csproj" />
+    <ProjectReference Include="..\Aspire4Wasm.Samples.Standalone.Mud.Client\Aspire4Wasm.Samples.Standalone.Mud.Client.csproj" />
+    <ProjectReference Include="..\Aspire4Wasm.Samples.Standalone.Mud.WebApi\Aspire4Wasm.Samples.Standalone.Mud.WebApi.csproj" />
   </ItemGroup>
 
 </Project>

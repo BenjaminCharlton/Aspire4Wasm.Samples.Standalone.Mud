@@ -12,8 +12,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\Aspire4Wasm.Samples.Standalone.HttpContracts\Aspire4Wasm.Samples.Standalone.HttpContracts.csproj" />
-		<ProjectReference Include="..\Aspire4Wasm.Samples.Standalone.ServiceDefaults\Aspire4Wasm.Samples.Standalone.ServiceDefaults.csproj" />
+		<ProjectReference Include="..\Aspire4Wasm.Samples.Standalone.Mud.HttpContracts\Aspire4Wasm.Samples.Standalone.Mud.HttpContracts.csproj" />
+		<ProjectReference Include="..\Aspire4Wasm.Samples.Standalone.Mud.ServiceDefaults\Aspire4Wasm.Samples.Standalone.Mud.ServiceDefaults.csproj" />
 	</ItemGroup>
 
 </Project>
